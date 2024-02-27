@@ -18,8 +18,8 @@ A React Todo app is a simple task management application built using the React l
 5. Access the client in your browser at: `https://localhost:3000`
 
 # Links
-- [Live-Link](https://our-todo-app.netlify.app/)
-- [Front-End-Link](https://github.com/Shm-Rsuf/todo-app)
+- [Live-Link](https://todolistbyrammy.vercel.app/)
+
 
 # Conclusion
 Note: This project only implements the front-end of the app.
